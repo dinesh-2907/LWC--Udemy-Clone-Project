@@ -48,7 +48,8 @@ Project Structure
 
 /udemy-clone  
 │── index.html  
-│── style.css   
+│── style.css 
+│── images/
 │── README.md  
 
 Acknowledgement
